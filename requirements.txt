@@ -1,0 +1,5 @@
+numpy==1.26.4
+protobuf==3.20.3
+opencv-python==4.9.0.80
+mediapipe==0.10.7
+deepface==0.0.93
